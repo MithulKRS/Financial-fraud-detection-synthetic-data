@@ -31,4 +31,4 @@ The model was evaluated using metrics that prioritize the minority class:
    ```bash
    pip install pandas numpy scikit-learn imbalanced-learn joblib
 
-<h2>Author</h2><br>Mithul Krishna 2nd Year, B.Tech CSE<br>NIT Bhopal
+<h2>Author</h2>Mithul Krishna 2nd Year, B.Tech CSE<br>NIT Bhopal
